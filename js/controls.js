@@ -28,7 +28,7 @@ export default function Controls({
     
     function soundOff(){
         buttonSoundOff.classList.add('hide')
-        buttonSoundO.classList.remove('hide')
+        buttonSoundOn.classList.remove('hide')
     }
 
 //Função de resetar
